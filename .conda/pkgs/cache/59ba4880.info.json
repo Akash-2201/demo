@@ -1,0 +1,11 @@
+{
+  "mod": "Fri, 09 May 2025 19:11:20 GMT",
+  "etag": "\"5c6c42ae537039c0653b496c86841bd1\"",
+  "cache_control": "public, max-age=30",
+  "blake2_256_nominal": "2c487cfa375d4c4d34b5e3b2108897a1ff762e0124f58c7fcceedb402d1270da",
+  "blake2_256": "2c487cfa375d4c4d34b5e3b2108897a1ff762e0124f58c7fcceedb402d1270da",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64",
+  "size": 60438005,
+  "mtime_ns": 1747103476924745300,
+  "refresh_ns": 1747103477133705000
+}

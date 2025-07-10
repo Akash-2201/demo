@@ -1,0 +1,11 @@
+{
+  "mod": "Fri, 09 May 2025 22:05:02 GMT",
+  "etag": "\"a20e791ddf5863c32ad6d9d2659631a8\"",
+  "cache_control": "public, max-age=30",
+  "blake2_256_nominal": "c322a73b152403c9d5e166de3b7894cbb9239b8b5ae7634c0246dca8dfe32851",
+  "blake2_256": "c322a73b152403c9d5e166de3b7894cbb9239b8b5ae7634c0246dca8dfe32851",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch",
+  "size": 5601152,
+  "mtime_ns": 1747103474964361700,
+  "refresh_ns": 1747103505850381400
+}
